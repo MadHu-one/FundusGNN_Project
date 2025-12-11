@@ -1,2 +1,5 @@
-# FundusGNN_Project
-Fundus Image Disease classification wing Graph Neural Networks on Vessel Structures
+# FundusGNN Project
+
+Fundus image disease classification using Graph Neural Networks on retinal vessel structures.
+
+Author: MadHu-one
